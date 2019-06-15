@@ -1,1 +1,2 @@
 Ciao mi chiamo Corrado.
+Questo è un test che sto facendo per imparare ad usare git gui.
